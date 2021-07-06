@@ -1,0 +1,47 @@
+
+.main{
+  display: flex; 
+  background-image: url("https://jtom.me/images/home-bg3.ef171b05.jpg" );
+  background-size: 100%;
+  margin: 0;
+  width: 100%;
+}
+.first{
+  background-color:rgb(131, 6, 6);
+  width: 22%;
+ text-align: center;
+  height: 100vh;
+  opacity: 0.8;
+
+}
+.third{
+  margin-top: 50px;
+}
+.port,.cont,.offer{
+ width: 100%;
+ background-color: rgb(233, 230, 233);
+}
+.name2{
+  font-style: italic;
+  font-size:xx-large;
+  color: antiquewhite;
+}
+.name{
+  margin: 80px;
+}
+.name1{
+  margin: 90px;
+  padding: 30px;
+}
+.name3{
+  margin: 10px;
+}
+  
+
+
+
+
+
+
+
+
